@@ -23,14 +23,16 @@ button{
 button:hover{
     background-color:chocolate;
     color:white;
+    
 }
 
 @media only screen and (max-width: 490px){
 
 
     .main{
-        width:48%;
-        margin-left: 20%;
+        width:55%;
+        margin-left: 10%;
+        padding:15%
        
     }
 
